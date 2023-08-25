@@ -1,5 +1,16 @@
 {
- "name": "App",
+ "name": "alofeed | Discover all about Indonesia",
+  "short_name": "alofeed",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "start_url": "/?utm_source=homescreen",
+  "scope": "/",
+  "background_color": "#fff",
+  "theme_color": "#fdd929",
+  "description": "travel, vacation, places, indonesia",
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "dir": "auto",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
